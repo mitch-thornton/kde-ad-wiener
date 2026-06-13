@@ -1,0 +1,7 @@
+# Core (required to run make_figures.sh)
+numpy
+scipy
+matplotlib
+# Additional, only for the public-dataset scripts (CMS, SDSS, UNSW-NB15, NHANES)
+pandas
+KDEpy
