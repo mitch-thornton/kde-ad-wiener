@@ -8,6 +8,20 @@ The compiled paper is distributed separately here as `KDE_AD_Wiener_arXiv-v1.pdf
 the scripts and the redistributable derived data only; it does not contain the manuscript source and
 does not build the document.
 
+## Citation
+
+```bibtex
+@misc{thornton2026kerneldensityestimationspectral,
+      title={Kernel Density Estimation by Spectral Decomposition: Data-Driven Tapering and Superposition}, 
+      author={Mitchell A. Thornton},
+      year={2026},
+      eprint={2606.15450},
+      archivePrefix={arXiv},
+      primaryClass={stat.ME},
+      url={https://arxiv.org/abs/2606.15450}, 
+}
+```
+
 ## What the paper does
 Bandwidth selection and density estimation are read in the characteristic-function domain: the cyclic
 group-averaged covariance of the binned data has the squared empirical characteristic function as its
