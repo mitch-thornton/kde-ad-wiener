@@ -1,6 +1,6 @@
 # kde-ad-wiener
 
-Code and data to reproduce the figures of the [arXiv paper](https://arxiv.org/abs/2606.15450).
+Code and data to reproduce the figures of the [arXiv paper](https://arxiv.org/abs/2606.15450):
 
 **"Kernel Density Estimation by Spectral Decomposition: Data-Driven Tapering and Superposition"**
 by Mitchell A. Thornton (Darwin Deason Institute for Cyber Security and Dept. of Electrical and
