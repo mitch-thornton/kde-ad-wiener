@@ -4,9 +4,9 @@ Code and data to reproduce the figures of the arXiv paper
 
 **"Kernel Density Estimation by Spectral Decomposition: Data-Driven Tapering and Superposition"**
 by Mitchell A. Thornton (Darwin Deason Institute for Cyber Security and Dept. of Electrical and
-Computer Engineering, Southern Methodist University).
+Computer Engineering, Southern Methodist University). This paper is available at [arXiv](https://arxiv.org/abs/2606.15450).
 
-The compiled paper is distributed separately as `KDE_AD_Wiener_arXiv-v1.pdf`. This repository contains
+The compiled paper is distributed separately here as `KDE_AD_Wiener_arXiv-v1.pdf`. This repository contains
 the scripts and the redistributable derived data only; it does not contain the manuscript source and
 does not build the document.
 
